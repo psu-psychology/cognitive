@@ -1,0 +1,23 @@
+<div id="navBar">
+  <div id="search">
+    <form method="GET" action="http://search-results.aset.psu.edu/search">
+    <input type="text" name="q" size="25" maxlength="2048" value="">
+    <input type="submit" name="btnG" value="Search PSU Psychology">
+    <input type="hidden" name="client" value="PennState">
+    <input type="hidden" name="proxystylesheet" value="PennState">
+    <input type="hidden" name="output" value="xml_no_dtd">
+    <input type="hidden" name="site" value="PennState">
+    <input type="hidden" name="as_sitesearch" value="http://psych.la.psu.edu" />
+    </form>
+  </div> 
+  <div id="sectionLinks">    
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="research.html" name="link6" id="link7" onmouseover="MM_showMenu(window.mm_menu_0926232506_0,120,0,null,'link6')" onmouseout="MM_startTimeout();">Research</a></li>
+      <li><a href="people.html" name="link8" id="link1" onmouseover="MM_showMenu(window.mm_menu_0925051242_0,120,0,null,'link8')" onmouseout="MM_startTimeout();">People</a></li>
+      <li><a href="news.html" name="link4" id="link3" onmouseover="MM_showMenu(window.mm_menu_0925053346_0,120,0,null,'link4')" onmouseout="MM_startTimeout();">News</a></li>
+      <li><a href="students.html" name="link9" id="link5">Students</a></li>
+      <li><a href="links.html">Resources</a></li>
+    </ul>
+  </div><!-- sectionLinks -->
+</div>

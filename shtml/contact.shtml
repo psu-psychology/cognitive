@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Load global style sheet -->
+<link href="css/global.css" rel="stylesheet" type="text/css" />
+
+<!-- Javascript Menu -->
+<!--#include virtual="menu.shtml" -->
+</head>
+
+<body>
+<!-- Load JavaScript menu -->
+<script language="JavaScript1.2">mmLoadMenus();</script>
+
+<!--Masthead -->
+<!--#include virtual="masthead.shtml" -->
+
+<!--end headlines -->
+<div id="content">
+  <div class="feature">
+    <p>&nbsp;</p>
+    <h2><span class="style1">Get In Touch </span>
+    </h2>
+    <h1>&nbsp;</h1>
+    <h1>Contact</h1>
+    <p>For questions about a specific faculty member's research, <a href="people.shtml">contact that faculty member directly</a>. For information about applying for graduate student, contact <a href="mailto:sbg4@psu.edu">Sherri Gilliland</a>, Graduate Secretary. For a list of other contact information, please <a href="http://psych.la.psu.edu/directory/faculty-cognitive.html">click here</a>. </p>
+<h1>Visit Us </h1>
+    <p>The Psychology department is housed in the Moore Building on the University Park campus. See the map below for the location of the building within the campus, or use the &quot;get google directions&quot; search to be sent to maps.google.com for driving directions.</p>
+    <form action="http://maps.google.com/maps" method="get" target="_blank">
+Enter your starting address:
+<input type="text" name="saddr" />
+<input type="hidden" name="daddr" value="Moore Building University Park Pa 16802" />
+<input type="submit" value="get google directions" />
+</form>
+    <p></p>
+    <img src="moore.jpg" alt="" width="600" height="417" align="left" class="feature" /></p>
+  </div>
+  <div class="story">
+    <h3>&nbsp;</h3>
+  </div>
+  <div class="story"></div>
+</div>
+<!--end content -->
+<div id="siteInfo"></div>
+<br />
+</body>
+</html>

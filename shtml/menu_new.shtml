@@ -1,0 +1,9 @@
+<!-- New menu -->
+<ul id="mainNav">
+<li><a href="index.shtml" id="homeLink">Home</a></li>
+<li><a href="research.shtml" id="researchLink">Research</a></li>
+<li><a href="people.shtml" id="peopleLink">People</a></li>
+<li><a href="news.shtml" id="newsLink">News</a></li>
+<li><a href="students.shtml" id="studentsLink">Students</a></li>
+<li><a href="resources.shtml" id="resourcesLink">Resources</a></li>
+</ul>

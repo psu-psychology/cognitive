@@ -1,0 +1,18 @@
+<!-- Build directory from individual files -->
+<h3>Faculty</h3>
+<!--#include virtual="faculty_list.shtml" -->
+
+<h3>Faculty Associates</h3>
+<!--#include virtual="faculty_associates_list.shtml" -->
+
+<h3>Postdoctoral Fellows</h3>
+<!--#include virtual="postdoc_list.shtml" -->
+
+<h3>Graduate Students</h3>
+<!--#include virtual="grads_list.shtml" -->
+
+<h3>Research Staff</h3>
+<!--#include virtual="staff_list.shtml" -->
+
+<h3>Visiting Scholars</h3>
+<!--#include virtual="visitng_scholar_list.shtml" -->

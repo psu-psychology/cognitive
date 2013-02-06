@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Penn State Cognitive Psychology - Home</title>
+
+<!-- Load global style sheet -->
+<link href="css/global.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body id="home">
+
+<!--Masthead -->
+<!--#include virtual="masthead.shtml" -->
+
+<!-- Menu -->
+<!--#include virtual="menu_new.shtml" --> 
+
+<!-- Events -->
+<div id="headlines">
+  <!--#include virtual="events.shtml" -->
+  <div id="advert"></div>
+</div>
+<!--end Events -->
+
+<!-- Main content -->
+<div id="content">
+  <div class="feature">
+  <img src="moore01.jpg" alt="" width="376" height="250" />
+<h1>About Us </h1>
+<p>Cognitive Area faculty  investigate a wide range of topics including comparative cognition, language,  learning, memory, perception, planning and action, and rhythms of human  behavior. We use a wide range of methodological approaches in our research  including functional neuroimaging (fMRI, EEG, DTI), behavioral approaches, as  well as computational and mathematical modeling.&nbsp; Our area promotes cross-disciplinary collaboration  through an extensive network of university affiliations that facilitate research  initiatives spanningthe globe. </p>
+<p>We are committed to providing students with high  quality training in an atmosphere that promotes many formal and informal  interactions with faculty and peers from around the department and the university. Our program is tailored to meet the  individual needs of our students. Students may choose to participate in the APA  award-winning Specialization in Cognitive and Affective Neuroscience (SCAN)  program, or select from a variety of minors and dual-degree options as  appropriate. For more information, see the <em>Prospective  Graduate Students</em> link.</p>
+      <p>&nbsp;</p>
+      <h3 align="left">&nbsp;</h3>
+  </div>
+  <div class="story">
+    <h3>&nbsp;</h3>
+  </div>
+  <div class="story">
+    <h3>&nbsp;</h3>
+  </div>
+</div>
+<!--end content -->
+<div id="siteInfo"></div>
+<br />
+</body>
+</html>

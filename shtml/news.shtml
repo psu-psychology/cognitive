@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Penn State Cognitive Psychology - News &amp; Announcements</title>
+
+<!-- Load global style sheet -->
+<link href="css/global.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body id="news">
+
+<!--Masthead -->
+<!--#include virtual="masthead.shtml" -->
+
+<!-- Menu -->
+<!--#include virtual="menu_new.shtml" --> 
+
+<!--end navBar div -->
+
+<div id="headlines">
+  <h1>Cognitive Area Directory</h1>
+  <!-- Build directory from individual files -->
+  <h2>Faculty</h2>
+  <!--#include virtual="faculty_list.shtml" -->
+  <h2>Faculty Associates</h2>
+  <!--#include virtual="faculty_associates_list.shtml" -->
+  <h2>Postdoctoral Fellows</h2>
+  <!--#include virtual="postdoc_list.shtml" -->
+  <h2>Graduate Students</h2>
+  <!--#include virtual="grads_list.shtml" -->
+  <h2>Research Staff</h2>
+  <!--#include virtual="research_staff_list.shtml" -->
+  <h2>Visiting Scholars</h2>
+  <!--#include virtual="visiting_scholar_list.shtml" -->
+</div>
+
+
+<div id="content">
+  <div class="feature">
+  <!--#include virtual="events.shtml" -->
+  </div>
+  
+  <div class="story">
+    <h2><a name="publications" id="publications"></a>Representative Recent Publications</h2>
+    <p>Brown, F. M., Neft, E. E., &amp; LaJambe, C. M. (2008). Collegiate rowing crew performance varies by morningness-eveningness. Journal of Strength and Conditioning Research, 22(6), 1894-900.</p>
+    <p>Carlson, R.A. (in press). The higher mental processes in the American Journal of Psychology. American Journal of Psychology.</p>
+<p>Chapman, K. M., Weiss, D. J. &amp; Rosenbaum, D. A. (2010). Evolutionary roots of motor planning: The end-state comfort effect in lemurs (Lemur catta, Eulemur mongoz, Eulemur coronatus, Eulemur collaris, Hapalemur griseus, and Varecia rubra). Journal of Comparative Psychology, 124, 229&ndash;232. </p>
+<p>Fesi, J.D., Yannes, M.P., Brinckman, D.D., Norcia, A.M., Ales, J.M., &amp; Gilmore, R.O. (2011). Distinct cortical responses to 2D figures defined by motion contrast. Vision Research, 51(19), 2110-2120. doi:10.1016/j.visres.2011.07.015</p>
+<p>Kootstra, G. J., Van Hell, J. G., &amp; Dijkstra, T. (2010). Alignment in the production of code-switched sentences: The role of word order and dialogue partner. Journal of Memory and Language, 63, 210-236.</p>
+    <p>Kroll, J. F., Dussias, P. E., Bogulski, C. A., &amp; Valdes-Kroff,  J. (in press). Juggling two languages in one mind: What bilinguals tell us about language processing and its consequences for cognition. In B. Ross (Ed.), The Psychology of Learning and Motivation, Volume 56.</p>
+    <p>Mitchel, A. &amp; Weiss, D.J. (2011) Simultaneous statistical learning in two modalities: Evidence for modality-general accounts. Journal of Experimental Psychology: Learning, Memory, and Cognition, 37(5), 1081-1091.</p>
+    <p>Morgan, J. H., Morgan, G., &amp; Ritter, F. E. (2010). A preliminary model of participation for small groups. Computational and Mathematical Organization Science, 16, 246-270.</p>
+    <p>Santamaria, J. P. &amp; Rosenbaum, D. A. (2011). Etiquette and effort: Holding doors for others. Psychological Science, 22, 584-588.</p>
+    <p>Scherf, K. S., Behrmann, M. &amp; Dahl, R.  (in press).  Facing changes and changing faces in adolescence: A new model for investigating adolescent-specific interactions between pubertal, brain and behavioral development.  Developmental Cognitive Neuroscience.</p>
+    <p>Thomas, H., Lohaus, A., &amp; Domsch, H. (2011). Stable unstable reliability theory.  British Journal of Mathematical and Statistical Psychology, in press. DOI: 10.1111/j.2044-8317.2010.02011.x</p>
+    <p>Yang, J., Tan, L., &amp; Li, P. (2011). Lexical representation of nouns and verbs in the late bilingual brain. Journal of Neurolinguistics, 24, 674-682.</p>
+  </div>
+  <div class="story">
+    <h2><a name="awards" id="awards"></a>Grants and Awards </h2>
+    <p>Nancy Dennis has received a grant from the National Science Foundation.<br />
+      <br />
+      Ping Li has received a grant from the National Science Foundation.<br />
+      <br />
+    Dan Weiss has received a grant from the National Insitutes of Health.<br />
+    <br />
+    Judy Kroll, Ping Li, Janet van Hell and colleagues at the Center for Language Science have received a grant from the National Science Foundation.<br />
+    <br />
+    Nancy Dennis has received a grant from the American Foundation for Aging Research.
+    </p>
+  </div>
+  <div class="story">
+    <h2><a name="othernews" id="othernews"></a>Other News </h2>
+    <p>We are delighted to welcome Assistant Professor of Psychology Suzy Scherf to the Cognitive and Developmental Areas. Scherf is a developmental cognitive neuroscientist with interests in visual cognition, especially face processing and object recognition, in both normal children and those with autism spectrum disorder.</p>
+    <p>The Psychology Department will be moving out of the current Moore Building into the new addition along Fischer Road over the winter 2011 break.</p>
+  </div>
+</div>
+<!--end content -->
+<div id="siteInfo"></div>
+<br />
+</body>
+</html>
