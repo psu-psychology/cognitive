@@ -140,13 +140,13 @@ bibliography: bibliography.bib
 ## [1F1 Channels *p* < .0005](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/vector-amplitude-barplots-1.png) 
 
 <div class="centered">
-<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/vector-amplitude-barplots-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/vector-amplitude-barplots-pattern-1.png" width="800px">
 </div>
 
 ## [Complex Domain Plot of 1F1 Channels](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/complex-domain-plots-1.png)
 
 <div class="centered">
-<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/complex-domain-plots-1.png" height="500px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/complex-domain-plots-pattern-1.png" height="500px">
 </div>
 
 ## 1F1 Results Summary
@@ -167,16 +167,16 @@ bibliography: bibliography.bib
 <img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png" width="800px">
 </div>
 
-## [3F1 Channels *p* < .0005](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/vector-amplitude-barplots-1.png)
+## [3F1 Channels *p* < .0005](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/vector-amplitude-barplots-speed-1.png)
 
 <div class="centered">
-<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/vector-amplitude-barplots-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/vector-amplitude-barplots-speed-1.png" width="800px">
 </div>
 
-## [Complex Domain Plot of 3F1 Channels](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/complex-domain-plots-1.png)
+## [Complex Domain Plot of 3F1 Channels](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/complex-domain-plots-speed-1.png)
 
 <div class="centered">
-<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/complex-domain-plots-1.png" height="500px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/complex-domain-plots-speed-1.png" height="500px">
 </div>
 
 ## 3F1 Results Summary
@@ -191,16 +191,10 @@ bibliography: bibliography.bib
 <img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png" width="800px">
 </div>
 
-## [1F2 Channels *p* < .0005](ttps://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/vector-amplitude-barplots-1.png)
+## [1F2 Channels *p* < .0005](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/vector-amplitude-barplots-speed-1.png)
 
 <div class="centered">
-<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/vector-amplitude-barplots-1.png" width="800px">
-</div>
-
-## [Complex Domain Plot of 1F2 Channels](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/complex-domain-plots-1.png)
-
-<div class="centered">
-<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/complex-domain-plots-1.png" height="500px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/vector-amplitude-barplots-speed-1.png" width="800px">
 </div>
 
 ## Results Summary
@@ -364,7 +358,7 @@ Kretch, Franchak, & Adolph (2014), <http://dx.doi.org/10.1111/cdev.12206>
 <div class="centered">
 <img src='https://rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-patterns.png' width=800px/>
 
-<https://rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-patterns.png>
+<https://rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-direction-hist.png>
 </div>
 
 ## Flow Direction Distributions by Geometry & Posture
@@ -400,7 +394,6 @@ fn_spd_hist_bins <- 'speed-histogram-bins.csv'
 fn_spd_hist_fits <- 'speed-histogram-fits.csv'
 fn_patt <- 'pattern-histogram-bins.csv'
 ```
-
 
 ```{r crawl-vs-walk-simulated-speeds}
 # Load speed histogram data from simulation
@@ -844,7 +837,7 @@ anova(lme.theta)
 ## Pattern Correlation Results
 
 <div class="centered">
-<img src='https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/pattern-correlations.jpg' width=800px/>
+<img src='https://rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/pattern-correlations.jpg' width=800px/>
 </div>
 
 ## Pattern Correlation Results by Country {.flexbox .vcenter}
