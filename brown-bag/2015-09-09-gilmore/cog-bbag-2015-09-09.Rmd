@@ -20,7 +20,7 @@ bibliography: bibliography.bib
 ## Open Science Practices Have Made my Work Better
 
 <div class="centered">
-### Rick O. Gilmore
+### **Rick O. Gilmore**
 
 *Support*: NSF BCS-1147440, NSF BCS-1238599, NICHD U01-HD-076595
 </div>
@@ -62,9 +62,9 @@ bibliography: bibliography.bib
 - Radial (expansion/contraction), rotation, linear/laminar/translational, shear
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/optic-flow-types.png" width="600px">
+<img src="https://rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/optic-flow-types.png" width="600px">
 
-<https://cdn.rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/optic-flow-types.png>
+<https://rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/optic-flow-types.png>
 </div>
 
 ## How Does Optic Flow Sensitivity Develop?
@@ -131,22 +131,22 @@ bibliography: bibliography.bib
     + Individual means as random factors
 - Analyze channels independently
 
-## [1F1 Channel-Wise Results](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png)
+## [1F1 Channel-Wise Results](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png" width="800px">
 </div>
 
-## [1F1 Channels *p* < .0005](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/print-vector-amplitude-barplots-1.png) 
+## [1F1 Channels *p* < .0005](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/vector-amplitude-barplots-1.png) 
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/print-vector-amplitude-barplots-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/vector-amplitude-barplots-1.png" width="800px">
 </div>
 
-## [Complex Domain Plot of 1F1 Channels](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/complex-domain-plots-1.png)
+## [Complex Domain Plot of 1F1 Channels](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/complex-domain-plots-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/complex-domain-plots-1.png" height="500px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/complex-domain-plots-1.png" height="500px">
 </div>
 
 ## 1F1 Results Summary
@@ -155,28 +155,28 @@ bibliography: bibliography.bib
 - Radial & rotation >> translation
 - Amplitude and phase differences
 
-## [2F1 Channel-Wise Results](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/2F1/child/channel-wise-effects-1.png)
+## [2F1 Channel-Wise Results](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/2F1/child/channel-wise-effects-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/2F1/child/channel-wise-effects-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/2F1/child/channel-wise-effects-1.png" width="800px">
 </div>
 
-## [3F1 Channel-Wise Results](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png)
+## [3F1 Channel-Wise Results](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png" width="800px">
 </div>
 
-## [3F1 Channels *p* < .0005](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/vector-amplitude-barplots-1.png)
+## [3F1 Channels *p* < .0005](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/vector-amplitude-barplots-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/vector-amplitude-barplots-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/vector-amplitude-barplots-1.png" width="800px">
 </div>
 
-## [Complex Domain Plot of 3F1 Channels](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/complex-domain-plots-1.png)
+## [Complex Domain Plot of 3F1 Channels](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/complex-domain-plots-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/complex-domain-plots-1.png" height="500px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/complex-domain-plots-1.png" height="500px">
 </div>
 
 ## 3F1 Results Summary
@@ -185,22 +185,22 @@ bibliography: bibliography.bib
 - Speed, but not pattern tuned, 2 < 4 < 8 deg/s.
 - Amplitude and phase differences.
 
-## [1F2 Channel-Wise Results](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png)
+## [1F2 Channel-Wise Results](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png" width="800px">
 </div>
 
-## [1F2 Channels *p* < .0005](ttps://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/vector-amplitude-barplots-1.png)
+## [1F2 Channels *p* < .0005](ttps://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/vector-amplitude-barplots-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/vector-amplitude-barplots-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/vector-amplitude-barplots-1.png" width="800px">
 </div>
 
-## [Complex Domain Plot of 1F2 Channels](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/complex-domain-plots-1.png)
+## [Complex Domain Plot of 1F2 Channels](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/complex-domain-plots-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/complex-domain-plots-1.png" height="500px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/complex-domain-plots-1.png" height="500px">
 </div>
 
 ## Results Summary
@@ -211,40 +211,40 @@ bibliography: bibliography.bib
 - Radial & rotation != translation, phase and amplitude
 - Speed tuning
 
-## [Comparing Adults 1F1](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/adult/channel-wise-effects-1.png)
+## [Comparing Adults 1F1](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/adult/channel-wise-effects-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/adult/channel-wise-effects-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/adult/channel-wise-effects-1.png" width="800px">
 </div>
 
-## [To Children's](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png)
+## [To Children's](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png" width="800px">
 </div>
 
-## [Adults' 3F1](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/adult/channel-wise-effects-1.png)
+## [Adults' 3F1](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/adult/channel-wise-effects-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/adult/channel-wise-effects-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/adult/channel-wise-effects-1.png" width="800px">
 </div>
 
-## [To Children's](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png)
+## [To Children's](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png" width="800px">
 </div>
 
-## [Adults' 1F2](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/adult/channel-wise-effects-1.png)
+## [Adults' 1F2](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/adult/channel-wise-effects-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/adult/channel-wise-effects-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/adult/channel-wise-effects-1.png" width="800px">
 </div>
 
-## [To Children's](https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png)
+## [To Children's](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png" width="800px">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png" width="800px">
 </div>
 
 ## Developmental Effects
@@ -277,16 +277,16 @@ bibliography: bibliography.bib
 
 <https://databrary.org/volume/73>, <http://f1000research.com/posters/1098278>
 
-## [Results *p*(correct)](https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/adamiak-pcorr.png)
+## [Results *p*(correct)](https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/adamiak-pcorr.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/adamiak-pcorr.png" width="800px">
+<img src="https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/adamiak-pcorr.png" width="800px">
 </div>
 
-## [Results RT](https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/adamiak-rt.png)
+## [Results RT](https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/adamiak-rt.png)
 
 <div class="centered">
-<img src="https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/adamiak-rt.png" width="800px">
+<img src="https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/adamiak-rt.png" width="800px">
 </div>
 
 ## Adult Behavioral Summary
@@ -343,6 +343,9 @@ f^2+y^2 & -xy & -fy
 | Head tilt | 20 deg          | 9 deg          |
 
 <div class="centered">
+
+<img src="https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/kretch-etal.png" width=800px>
+
 Kretch, Franchak, & Adolph (2014), <http://dx.doi.org/10.1111/cdev.12206>
 </div>
 
@@ -359,17 +362,17 @@ Kretch, Franchak, & Adolph (2014), <http://dx.doi.org/10.1111/cdev.12206>
 ## Simulating Flow Fields {.flexbox .vcenter}
 
 <div class="centered">
-<img src='https://cdn.rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-patterns.png' width=800px/>
+<img src='https://rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-patterns.png' width=800px/>
 
-<https://cdn.rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-patterns.png>
+<https://rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-patterns.png>
 </div>
 
 ## Flow Direction Distributions by Geometry & Posture
 
 <div class="centered">
-<img src='https://cdn.rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-direction-hist.png' width=600px/>
+<img src='https://rawgit.com/psu-psychology/cognitive/master/figs/simulation-flow-direction-hist.png' width=600px/>
 
-<https://cdn.rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-direction-hist.png>
+<https://rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-direction-hist.png>
 </div>
 
 ## Flow Speeds By Geometry and Posture {.flexbox .vcenter}
@@ -688,25 +691,25 @@ $f(x;k,\theta) =  \alpha\frac{x^{k-1}e^{-\frac{x}{\theta}}}{\theta^k\Gamma(k)}$
 $\alpha$, amplitude; $\kappa$, shape; and $\theta$, scale parameters.
 </div>
 
-## Illustrative Speed Histograms -- 6 weeks
+## Illustrative Speed Histograms -- 6 weeks {.flexbox .vcenter}
 
 <div class="columns-2">
-<img src='https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/006AP.png' width="400px"> 
-<img src='https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/006MO.png' width="400px">
+<img src='https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/006AP.png' width="400px"> 
+<img src='https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/006MO.png' width="400px">
 </div>
 
-## Illustrative Speed Histograms -- 34 weeks
+## Illustrative Speed Histograms -- 34 weeks {.flexbox .vcenter}
 
 <div class="columns-2">
-<img src='https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/034JC.png' width=400px> 
-<img src='https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/034NW.png' width=400px>
+<img src='https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/034JC.png' width=400px> 
+<img src='https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/034NW.png' width=400px>
 </div>
 
-## Illustrative Speed Histograms -- 58 weeks
+## Illustrative Speed Histograms -- 58 weeks {.flexbox .vcenter}
 
 <div class="columns-2">
-<img src='https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/057AP.png' width=400px/> 
-<img src='https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/058LA.png' width=400px/></div>
+<img src='https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/057AP.png' width=400px/> 
+<img src='https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/058LA.png' width=400px/></div>
 
 ## Fitted $\kappa$ Parameters {.flexbox .vcenter}
 
@@ -841,7 +844,7 @@ anova(lme.theta)
 ## Pattern Correlation Results
 
 <div class="centered">
-<img src='Gilmore-Raudies-Jayaraman_files/figs/pattern-correlations.jpg' width=800px/>
+<img src='https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/img/pattern-correlations.jpg' width=800px/>
 </div>
 
 ## Pattern Correlation Results by Country {.flexbox .vcenter}
