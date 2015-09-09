@@ -364,7 +364,7 @@ Kretch, Franchak, & Adolph (2014), <http://dx.doi.org/10.1111/cdev.12206>
 ## Flow Direction Distributions by Geometry & Posture
 
 <div class="centered">
-<img src='https://rawgit.com/psu-psychology/cognitive/master/figs/simulation-flow-direction-hist.png' width=600px/>
+<img src='https://raw.githubusercontent.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-direction-hist.png' width=600px/>
 
 <https://rawgit.com/gilmore-lab/ICDL-EpiRob-2015/master/figs/simulation-flow-direction-hist.png>
 </div>
